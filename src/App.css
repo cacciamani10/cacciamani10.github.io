@@ -1,0 +1,63 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  top: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.navBox {
+  position: fixed;
+  border: 5px, solid, white;
+  margin: 1%;
+}
+
+.navBox a {
+  display: inline;
+  padding: 0 2px;
+  margin: 0 18px;
+  color: white;
+  font-size: 20px;
+}
+
+.navBox > .active {
+  border-bottom: 1px solid white;
+  transition: all 1000ms ease;
+}
+
+.section {
+  height: 101vh;
+  width: 100vw;
+}
+
+.home {
+  background-image: url('./images/treesandstars2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h1.name {
+  color: white;
+  font-size: 60px;
+}
+
+div.heading {
+  top: 30%;
+  left: 20%;
+  position: absolute;
+}
+
+.about {
+  background-color: palevioletred;
+  
+}
+
+.projects {
+  background-color: purple;
+}
+
+.contact {
+  background-color: brown;
+}
