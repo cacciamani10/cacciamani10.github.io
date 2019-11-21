@@ -5,7 +5,6 @@ import NavBox from './components/NavBox/NavBox';
 import Home from './components/Sections/Home';
 import About from './components/Sections/About';
 import Projects from './components/Sections/Projects';
-import Contact from './components/Sections/Contact';
 
 export default class App extends React.Component {
   render() {
@@ -15,7 +14,6 @@ export default class App extends React.Component {
         <Home />
         <About />
         <Projects />
-        <Contact />
       </div>
     );
   }

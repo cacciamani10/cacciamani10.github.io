@@ -1,5 +1,4 @@
 body {
-  font-family: 'Montserrat', sans-serif;
   top: 0;
   bottom: 0;
   margin: 0;
@@ -8,22 +7,44 @@ body {
 }
 
 .navBox {
+  background: linear-gradient(to bottom, black 0%, rgba(0,0,0,0) 80%);
+  width: 100vw;
   position: fixed;
-  border: 5px, solid, white;
-  margin: 1%;
+  margin: 0px;
+  padding-top: 8px;
+  overflow: hidden;
 }
 
 .navBox a {
   display: inline;
   padding: 0 2px;
   margin: 0 18px;
-  color: white;
+  color: #ebc634;
   font-size: 20px;
 }
 
+.navBox > .scrollLinks
+{
+  width: 72vw;
+  float: left;
+}
+
+.navBox > .outLinks
+{
+  float: right;
+  width: 25vw;
+  color: #ebc634;
+  font-size: 20px;
+  overflow: hidden;
+}
+
+.outLinkPicture {
+  width: 20px;
+  height: 20px;
+}
+
 .navBox > .active {
-  border-bottom: 1px solid white;
-  transition: all 1000ms ease;
+  border-bottom: 20px solid #ebc634;
 }
 
 .section {
@@ -39,8 +60,13 @@ body {
 }
 
 h1.name {
-  color: white;
+  color: #ebc634;
   font-size: 60px;
+}
+
+h3.title {
+  color: #ebc634;
+  font-size: 22px;
 }
 
 div.heading {
@@ -50,14 +76,10 @@ div.heading {
 }
 
 .about {
-  background-color: palevioletred;
+  background-color: #4534A3;
   
 }
 
 .projects {
-  background-color: purple;
-}
-
-.contact {
-  background-color: brown;
+  background-color: #6A2B9E;
 }
