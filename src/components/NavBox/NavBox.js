@@ -48,6 +48,7 @@ export default class NavBox extends Component {
                     <a href="https://www.linkedin.com/in/jacob-cacciamani-727471176/" target="_blank" rel="noopener noreferrer">
                         <img className="outLinkPicture" src={LinkedIn} alt="LinkedIn"/>
                     </a>
+                    <Link></Link>
                 </div>
             </div>
         )
