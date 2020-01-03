@@ -3,7 +3,11 @@ import React from 'react'
 export default function About() {
     return (
         <div className="section about">
-            <table>
+            <div className="skills">
+            <h2 className="ssection-header">
+                Skills...
+            </h2>
+            <table >
                 <tr>                
                     <th className="header-box">
                         Front-End
@@ -16,7 +20,7 @@ export default function About() {
                     </th>
                 </tr>
                 <tr>
-                    <td>
+                    <td rowSpan={2}>
                         <ul>
                             <li className="list-header">
                                 Fundamentals
@@ -51,7 +55,7 @@ export default function About() {
                             </li>
                         </ul>
                     </td>
-                    <td colSpan={2}>
+                    <td rowSpan={2}>
                         <ul>
                             <li className="list-header">
                                 Query Languages
@@ -81,7 +85,7 @@ export default function About() {
                     </td>
                 </tr>
             </table>
-            
+            </div>            
         </div>
     )
 }

@@ -64,7 +64,7 @@ h1.name {
   font-size: 60px;
 }
 
-h3.title {
+h3.title, .header-box {
   color: #ebc634;
   font-size: 22px;
 }
@@ -76,10 +76,41 @@ div.heading {
 }
 
 .about {
-  background-color: #4534A3;
-  
+  background-color: #39545f;
 }
 
 .projects {
-  background-color: #6A2B9E;
+  background-color: #333333;
+} 
+
+.skills {
+  vertical-align: middle;
+  padding: 30px;
+}
+
+.skills > table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.skills > table, th, td {
+  padding: 2px;
+  border: 1px solid #ebc634;
+  border-collapse: collapse;
+}
+
+.skills > th, td {
+  white-space: nowrap;
+  list-style-position: inside;
+  padding: 20px 20px 20px 0px;
+}
+.list-header {
+  padding-left: 0;
+  font-size: 20px;
+  font-style: italic;
+  list-style: none;
+}
+
+.ssection-header {
+  text-align: center;
+  font-size: 35px;
 }
