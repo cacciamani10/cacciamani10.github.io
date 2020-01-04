@@ -40,6 +40,16 @@ export default class NavBox extends Component {
                     > 
                         Projects 
                     </Link>
+                    <Link
+                        activeClass="active"
+                        to="contact"
+                        spy={true}
+                        smooth={true}
+                        offset={0}
+                        duration= {400}
+                    > 
+                        Contact 
+                    </Link>
                 </div>
                 <div className="outLinks">
                     <a href="https://github.com/cacciamani10" target="_blank" rel="noopener noreferrer">
@@ -48,8 +58,8 @@ export default class NavBox extends Component {
                     <a href="https://www.linkedin.com/in/jacob-cacciamani-727471176/" target="_blank" rel="noopener noreferrer">
                         <img className="outLinkPicture" src={LinkedIn} alt="LinkedIn"/>
                     </a>
-                    <a href="/resume">
-
+                    <a className="resume" href="https://resume-serve.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        Resume
                     </a>
                 </div>
             </div>
