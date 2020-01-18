@@ -30,21 +30,21 @@ export function NavBox() {
                     About 
                 </Link>
                 <Link
-                    activeClass="active"
                     to="projects"
                     spy={true}
                     smooth={true}
                     offset={0}
                     duration= {400}
                 > 
-                    Projects 
+                    Project 
                 </Link>
-                <div>
-                    <Contact
-                        show={modalShow}
-                        onHide={() => setModalShow(false)}
-                    />
-                </div>
+                <span className="contact" onClick={() => setModalShow(true)}>
+                    Contact
+                </span>
+                <Contact
+                    show={modalShow}
+                    onHide={() => setModalShow(false)}
+                />
             </div>
             <div className="outLinks">
                 <a href="https://github.com/cacciamani10" target="_blank" rel="noopener noreferrer">
