@@ -1,11 +1,11 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://cacciamani10.github.io",
+  "homepage": "https://cacciamani10.github.io/portfolio",
   "private": false,
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
