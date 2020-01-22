@@ -12,9 +12,9 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <NavBox />
-        <Home />
-        <About />
-        <Projects />
+        <Home/>
+        <About/>
+        <Projects/>
       </div>
     );
   }

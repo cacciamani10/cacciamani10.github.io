@@ -16,16 +16,16 @@ export default function About() {
                 </Col>
                 <Col sm={7} className="align-text-bottom right-col">
                     <h2 className="ssection-header">
-                        Skills...
+                        Relevant Technologies
                     </h2>
                 </Col>
             </Row>
             <Row>
                 <Col sm={5} className="left-col">
-                    <h2 className="dots justify-content-md-center">{'...'}</h2>
+                    <h3 className="title">I'm a web developer dedicated to creating solutions to buisiness problems with web technologies.</h3>
                 </Col>
                 <Col sm={7} className="right-col">
-                <table className="skills">
+                {/* <table className="skills">
                     <tbody>
                     <tr>                
                         <th className="header-box">
@@ -104,7 +104,7 @@ export default function About() {
                         </td>
                     </tr>
                     </tbody>
-                    </table>
+                    </table> */}
                 </Col>
                 
             </Row>
