@@ -9,23 +9,23 @@ export default function About() {
         <div className="about">
         <Container>
             <Row>
-                <Col sm={5} className="left-col">
+                <Col className="left-col">
                     <a href="https://www.linkedin.com/in/jacob-cacciamani-727471176/" target="_blank" rel="noopener noreferrer">
                         <img className="portrait" src={Portrait} alt="Jacob Cacciamani" />
                     </a>
                 </Col>
-                <Col sm={7} className="align-text-bottom right-col">
+                <Col className="align-text-bottom right-col">
                     <h2 className="ssection-header">
                         Relevant Technologies
                     </h2>
                 </Col>
             </Row>
             <Row>
-                <Col sm={5} className="left-col">
-                    <h3 className="title">I'm a web developer dedicated to creating solutions to buisiness problems with web technologies.</h3>
+                <Col className="left-col">
+                    <h3 className="description">I'm a web developer dedicated to creating solutions to buisiness problems with web technologies.</h3>
                 </Col>
-                <Col sm={7} className="right-col">
-                {/* <table className="skills">
+                <Col className="right-col">
+                <table className="skills">
                     <tbody>
                     <tr>                
                         <th className="header-box">
@@ -39,7 +39,7 @@ export default function About() {
                         </th>
                     </tr>
                     <tr>
-                        <td rowSpan={2}>
+                        <td>
                             <ul>
                                 <li className="list-header">
                                     Fundamentals
@@ -51,7 +51,7 @@ export default function About() {
                                     CSS3
                                 </li>
                                 <li>
-                                    Javascript => (ES6)
+                                    Javascript
                                 </li>
                             </ul>
                         </td>
@@ -95,6 +95,16 @@ export default function About() {
                                     Frameworks
                                 </li>
                                 <li>
+                                    React
+                                </li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ul>
+                                <li className="list-header">
+                                    Frameworks
+                                </li>
+                                <li>
                                     Node.js
                                 </li>
                                 <li>
@@ -104,7 +114,7 @@ export default function About() {
                         </td>
                     </tr>
                     </tbody>
-                    </table> */}
+                    </table>
                 </Col>
                 
             </Row>

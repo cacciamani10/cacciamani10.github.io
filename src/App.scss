@@ -31,6 +31,9 @@ body {
   overflow-x: hidden; 
 }
 
+ul {
+  padding-inline-start: 1em;
+}
 .navBox {
   background: linear-gradient(black 0%, rgba(0,0,0,0) 80%);
   width: 100vw;
@@ -66,6 +69,14 @@ h3.title, .header-box {
   font-size: 1.3em;
 }
 
+.description {
+  position: absolute;
+  top: 1em;
+  margin-top: .75em;
+  color: #ebc634;
+  font-size: 1.3em;
+}
+
 div.heading {
   top: 30%;
   left: 20%;
@@ -86,7 +97,8 @@ div.heading {
 
 .skills {
   vertical-align: middle;
-  padding: 2em;
+  position: relative;
+  top: 2em;
   border: 3px solid #ebc634;
   border-collapse: collapse;
 }
@@ -103,9 +115,9 @@ div.heading {
 }
 
 .skills > th, td {
-  white-space: nowrap;
+  //white-space: nowrap;
   list-style-position: inside;
-  padding: 1em 1em 1em 0px;
+  padding: .5em .5em .5em 0px;
 }
 
 th.header-box {
@@ -121,9 +133,11 @@ th.header-box {
 
 .ssection-header {
   color: #ebc634;
-  text-align: left;
-  padding-top: 20%;
-  font-size: 2.6em;
+  top: 1.8em;
+  text-align: center;
+  position: absolute;
+  // padding-top: 20%;
+  font-size: 2.2em;
 }
 
 .portrait {
@@ -135,7 +149,6 @@ th.header-box {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
 }
 
 .card { 
@@ -158,13 +171,13 @@ th.header-box {
   font-size: 88px;
 }
 
-.left-col {
-  padding-right: 10%;
+.left-col .right-col {
+  position: relative;
 }
 
-.right-col {
-  padding-left: 10%;
-}
+// .right-col {
+//   padding-left: .25em;
+// }
 
 .sticky-nav {
   color: #ebc634 !important;

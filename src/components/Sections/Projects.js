@@ -17,7 +17,7 @@ export default function Projects() {
                 <Carousel.Caption>
                     <h3>Issue Tracker</h3>
                     <p>Web CRUD Application for submitting and managing tickets in an IT environment.</p>
-                    <Button className="buttons" variant="outline-warning" href="https://github.com/cacciamani10/IssueReport" target="_blank" rel="noopener noreferrer">
+                    <Button className="buttons" variant="outline-light" href="https://github.com/cacciamani10/IssueReport" target="_blank" rel="noopener noreferrer">
                         View Code
                     </Button>
                 </Carousel.Caption>
