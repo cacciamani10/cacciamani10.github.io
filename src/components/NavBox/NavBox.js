@@ -12,8 +12,9 @@ export function NavBox() {
         <Navbar className="sticky-nav" fixed="top" collapseOnSelect expand="sm">
             <Navbar.Brand>
                 <Link
+                    style={{cursor: 'pointer'}}
                     activeClass="active"
-                    to="home"
+                    to="section"
                     spy={true}
                     smooth={true}
                     offset={0}
