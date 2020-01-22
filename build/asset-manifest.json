@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "cacciamani10.github.io/static/css/main.5ecb7d54.chunk.css",
-    "main.js": "cacciamani10.github.io/static/js/main.cb428cf9.chunk.js",
-    "main.js.map": "cacciamani10.github.io/static/js/main.cb428cf9.chunk.js.map",
+    "main.js": "cacciamani10.github.io/static/js/main.8b50ca10.chunk.js",
+    "main.js.map": "cacciamani10.github.io/static/js/main.8b50ca10.chunk.js.map",
     "runtime-main.js": "cacciamani10.github.io/static/js/runtime-main.302f5007.js",
     "runtime-main.js.map": "cacciamani10.github.io/static/js/runtime-main.302f5007.js.map",
     "static/css/2.cc1eb993.chunk.css": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css",
     "static/js/2.1d0ec428.chunk.js": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js",
     "static/js/2.1d0ec428.chunk.js.map": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js.map",
     "index.html": "cacciamani10.github.io/index.html",
-    "precache-manifest.1218391718792ae148e04a57234e1394.js": "cacciamani10.github.io/precache-manifest.1218391718792ae148e04a57234e1394.js",
+    "precache-manifest.1fb0faebefc299457bee0bc570d6193a.js": "cacciamani10.github.io/precache-manifest.1fb0faebefc299457bee0bc570d6193a.js",
     "service-worker.js": "cacciamani10.github.io/service-worker.js",
     "static/css/2.cc1eb993.chunk.css.map": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css.map",
     "static/css/main.5ecb7d54.chunk.css.map": "cacciamani10.github.io/static/css/main.5ecb7d54.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.cc1eb993.chunk.css",
     "static/js/2.1d0ec428.chunk.js",
     "static/css/main.5ecb7d54.chunk.css",
-    "static/js/main.cb428cf9.chunk.js"
+    "static/js/main.8b50ca10.chunk.js"
   ]
 }
