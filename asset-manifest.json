@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "cacciamani10.github.io/static/css/main.73d3d70d.chunk.css",
-    "main.js": "cacciamani10.github.io/static/js/main.1e7522ef.chunk.js",
-    "main.js.map": "cacciamani10.github.io/static/js/main.1e7522ef.chunk.js.map",
+    "main.css": "cacciamani10.github.io/static/css/main.5ecb7d54.chunk.css",
+    "main.js": "cacciamani10.github.io/static/js/main.cb428cf9.chunk.js",
+    "main.js.map": "cacciamani10.github.io/static/js/main.cb428cf9.chunk.js.map",
     "runtime-main.js": "cacciamani10.github.io/static/js/runtime-main.302f5007.js",
     "runtime-main.js.map": "cacciamani10.github.io/static/js/runtime-main.302f5007.js.map",
     "static/css/2.cc1eb993.chunk.css": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css",
-    "static/js/2.8b03fa0a.chunk.js": "cacciamani10.github.io/static/js/2.8b03fa0a.chunk.js",
-    "static/js/2.8b03fa0a.chunk.js.map": "cacciamani10.github.io/static/js/2.8b03fa0a.chunk.js.map",
+    "static/js/2.1d0ec428.chunk.js": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js",
+    "static/js/2.1d0ec428.chunk.js.map": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js.map",
     "index.html": "cacciamani10.github.io/index.html",
-    "precache-manifest.d21e07a7ed5cb21f540272ac1ff5d8fa.js": "cacciamani10.github.io/precache-manifest.d21e07a7ed5cb21f540272ac1ff5d8fa.js",
+    "precache-manifest.1218391718792ae148e04a57234e1394.js": "cacciamani10.github.io/precache-manifest.1218391718792ae148e04a57234e1394.js",
     "service-worker.js": "cacciamani10.github.io/service-worker.js",
     "static/css/2.cc1eb993.chunk.css.map": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css.map",
-    "static/css/main.73d3d70d.chunk.css.map": "cacciamani10.github.io/static/css/main.73d3d70d.chunk.css.map",
-    "static/js/2.8b03fa0a.chunk.js.LICENSE": "cacciamani10.github.io/static/js/2.8b03fa0a.chunk.js.LICENSE",
+    "static/css/main.5ecb7d54.chunk.css.map": "cacciamani10.github.io/static/css/main.5ecb7d54.chunk.css.map",
+    "static/js/2.1d0ec428.chunk.js.LICENSE": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js.LICENSE",
     "static/media/issueTracker.jpg": "cacciamani10.github.io/static/media/issueTracker.01bfae19.jpg",
     "static/media/portrait.png": "cacciamani10.github.io/static/media/portrait.9073eec2.png",
-    "static/media/App.scss": "cacciamani10.github.io/static/media/treesandstars2.edc71dda.jpg"
+    "static/media/treesandstars2.jpg": "cacciamani10.github.io/static/media/treesandstars2.edc71dda.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.302f5007.js",
     "static/css/2.cc1eb993.chunk.css",
-    "static/js/2.8b03fa0a.chunk.js",
-    "static/css/main.73d3d70d.chunk.css",
-    "static/js/main.1e7522ef.chunk.js"
+    "static/js/2.1d0ec428.chunk.js",
+    "static/css/main.5ecb7d54.chunk.css",
+    "static/js/main.cb428cf9.chunk.js"
   ]
 }
