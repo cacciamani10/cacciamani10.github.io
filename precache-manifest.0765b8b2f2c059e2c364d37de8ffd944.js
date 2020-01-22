@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ee42f761387bcd37b677d9b6b058c42",
+    "revision": "24d257211dab9c70286f1b9e455f6fc8",
     "url": "cacciamani10.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css"
   },
   {
-    "revision": "67542fcae4b7fec95121",
+    "revision": "f84b0ea5f5cf577b6341",
     "url": "cacciamani10.github.io/static/css/main.fda7407f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js.LICENSE"
   },
   {
-    "revision": "67542fcae4b7fec95121",
-    "url": "cacciamani10.github.io/static/js/main.f1440777.chunk.js"
+    "revision": "f84b0ea5f5cf577b6341",
+    "url": "cacciamani10.github.io/static/js/main.cb2472af.chunk.js"
   },
   {
     "revision": "92af377bc84098b1148a",
