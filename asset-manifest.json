@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "cacciamani10.github.io/static/css/main.fda7407f.chunk.css",
+    "main.css": "cacciamani10.github.io/static/css/main.dcd7c2f3.chunk.css",
     "main.js": "cacciamani10.github.io/static/js/main.cb2472af.chunk.js",
     "main.js.map": "cacciamani10.github.io/static/js/main.cb2472af.chunk.js.map",
     "runtime-main.js": "cacciamani10.github.io/static/js/runtime-main.302f5007.js",
@@ -9,10 +9,10 @@
     "static/js/2.1d0ec428.chunk.js": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js",
     "static/js/2.1d0ec428.chunk.js.map": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js.map",
     "index.html": "cacciamani10.github.io/index.html",
-    "precache-manifest.0765b8b2f2c059e2c364d37de8ffd944.js": "cacciamani10.github.io/precache-manifest.0765b8b2f2c059e2c364d37de8ffd944.js",
+    "precache-manifest.145a0f5d63b8296fd3afdcde8ffb48d8.js": "cacciamani10.github.io/precache-manifest.145a0f5d63b8296fd3afdcde8ffb48d8.js",
     "service-worker.js": "cacciamani10.github.io/service-worker.js",
     "static/css/2.cc1eb993.chunk.css.map": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css.map",
-    "static/css/main.fda7407f.chunk.css.map": "cacciamani10.github.io/static/css/main.fda7407f.chunk.css.map",
+    "static/css/main.dcd7c2f3.chunk.css.map": "cacciamani10.github.io/static/css/main.dcd7c2f3.chunk.css.map",
     "static/js/2.1d0ec428.chunk.js.LICENSE": "cacciamani10.github.io/static/js/2.1d0ec428.chunk.js.LICENSE",
     "static/media/issueTracker.jpg": "cacciamani10.github.io/static/media/issueTracker.01bfae19.jpg",
     "static/media/portrait.png": "cacciamani10.github.io/static/media/portrait.9073eec2.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.302f5007.js",
     "static/css/2.cc1eb993.chunk.css",
     "static/js/2.1d0ec428.chunk.js",
-    "static/css/main.fda7407f.chunk.css",
+    "static/css/main.dcd7c2f3.chunk.css",
     "static/js/main.cb2472af.chunk.js"
   ]
 }
