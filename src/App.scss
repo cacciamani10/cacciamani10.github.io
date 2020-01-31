@@ -180,3 +180,14 @@ th.header-box {
 .navbar-light .navbar-brand {
   color: rgba(235, 198, 52, .95) !important;
 }
+
+.alert.fixed-to-top {
+  position: fixed;
+  top: 3em;
+  z-index: 99999;
+}
+
+.form-warning {
+  font-size: .7em;
+  font-style: italic;
+}
