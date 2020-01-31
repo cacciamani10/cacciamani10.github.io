@@ -27,10 +27,29 @@ export class Contact extends React.Component {
         e.stopPropagation();
         console.log('Validating form...');
         if (this.state.email !== '' && this.state.message !== '') {
-            this.setState({ formIsValidated: true, alert: true  });
             console.log('Form is valid', this.state);
             this.props.onHide();
             // Send message
+            fetch('https://resume-serve.herokuapp.com/', {
+                crossDomain: true,
+                method: 'post',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    'name': this.state.name,
+                    'email': this.state.email,
+                    'orginization': this.state.orginization,
+                    'message': this.state.message
+                })
+        }).then(data => {
+            console.log(data);
+            if (data.status === 200)
+                this.setState({ formIsValidated: true, alert: true });
+            else {
+
+            }
+        }).catch(err => {
+            console.log(err);
+        })
             this.setState({ name: '', email: '', orginization: '', message: '' });
         }
         else {
