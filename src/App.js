@@ -8,6 +8,8 @@ import About from './components/Sections/About';
 import Projects from './components/Sections/Projects';
 
 export default class App extends React.Component {
+
+  
   render() {
     return (
       <div className="App">
