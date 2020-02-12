@@ -21,6 +21,9 @@ export default function Projects() {
                     <Button className="buttons" variant="outline-light" href="https://github.com/cacciamani10/IssueReport" target="_blank" rel="noopener noreferrer">
                         View Code
                     </Button>
+                    <Button className="buttons" variant="outline-light" href="http://dry-sands-09676.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        View Project
+                    </Button>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -36,6 +39,9 @@ export default function Projects() {
                     <p>Graphical application to visualize lyrics using Genius API.</p>
                     <Button className="buttons" variant="outline-dark" href="https://github.com/cacciamani10/LyricGrapher" target="_blank" rel="noopener noreferrer">
                         View Code
+                    </Button>
+                    <Button className="buttons" variant="outline-dark" href="https://lyric-grapher.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        View Project
                     </Button>
                 </Carousel.Caption>
             </Carousel.Item>
