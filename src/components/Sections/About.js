@@ -80,10 +80,13 @@ export default function About() {
                                     Query Languages
                                 </li>
                                 <li>
-                                    Postgresl and MySQL
+                                    Postgresl
                                 </li>
                                 <li>
-                                    NoSQL MongoDB
+                                    MySQL
+                                </li>
+                                <li>
+                                    MongoDB
                                 </li>
                             </ul>
                         </td>
