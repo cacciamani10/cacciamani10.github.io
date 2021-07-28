@@ -17,7 +17,7 @@ export default class EForm extends React.Component {
             </Form.Group>
 
             <Form.Group controlId="orginizationForm">
-                <Form.Label>Orginization</Form.Label>
+                <Form.Label>Organization</Form.Label>
                 <Form.Control name="orginization" type="text" placeholder="Enter orginization or company" onChange={this.props.change} />
             </Form.Group>
             <Form.Group controlId="messageForm">

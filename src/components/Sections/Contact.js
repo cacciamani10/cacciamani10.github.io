@@ -98,7 +98,7 @@ export class Contact extends React.Component {
             >
                 <Modal.Header closeButton>
                     <Modal.Title id="contained-modal-title-vcenter">
-                        Contact Me!
+                        Contact Me
                     </Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
