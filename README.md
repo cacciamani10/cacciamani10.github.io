@@ -1,6 +1,6 @@
 Portfolio Website created by Jacob Cacciamani
 
-Clone this respository and run this command in the directory.
+Clone this respository and run:
 
 ### `npm start`
 
