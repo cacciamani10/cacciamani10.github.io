@@ -19,6 +19,17 @@ $yellow: #ebc634;
   }
 }
 
+.btn-outline-dark {
+  color: black !important;
+  border-color: black !important;
+}
+
+.btn-outline-dark:hover {
+  background-color: black !important;
+  text-decoration: none !important;
+  color: #f5ff70 !important;
+}
+
 body {
   top: 0;
   bottom: 0;
@@ -190,4 +201,13 @@ th.header-box {
 .form-warning {
   font-size: .7em;
   font-style: italic;
+}
+
+.carousel-caption {
+  top: 1em;
+  bottom: auto;
+}
+
+.b-caption{
+  color: black;
 }

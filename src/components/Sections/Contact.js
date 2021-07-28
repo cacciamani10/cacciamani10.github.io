@@ -25,9 +25,8 @@ export class Contact extends React.Component {
     submitHandler = e => {
         e.preventDefault();
         e.stopPropagation();
-        console.log('Validating form...');
-        if (this.state.email !== '' && this.state.message !== '') {
-            console.log('Form is valid', this.state);
+        let emailCheck = RegExp(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/);
+        if (emailCheck.test(this.state.email) && this.state.message !== '') {
             this.props.onHide();
             // Send message
             fetch('https://resume-serve.herokuapp.com/', {
