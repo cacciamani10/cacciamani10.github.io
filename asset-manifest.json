@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "cacciamani10.github.io/static/css/main.8ca792e4.chunk.css",
-    "main.js": "cacciamani10.github.io/static/js/main.a397d273.chunk.js",
-    "main.js.map": "cacciamani10.github.io/static/js/main.a397d273.chunk.js.map",
-    "runtime-main.js": "cacciamani10.github.io/static/js/runtime-main.302f5007.js",
-    "runtime-main.js.map": "cacciamani10.github.io/static/js/runtime-main.302f5007.js.map",
-    "static/css/2.cc1eb993.chunk.css": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css",
-    "static/js/2.7b7a9689.chunk.js": "cacciamani10.github.io/static/js/2.7b7a9689.chunk.js",
-    "static/js/2.7b7a9689.chunk.js.map": "cacciamani10.github.io/static/js/2.7b7a9689.chunk.js.map",
-    "index.html": "cacciamani10.github.io/index.html",
-    "precache-manifest.1913406f0db2563371a38524ace66cd3.js": "cacciamani10.github.io/precache-manifest.1913406f0db2563371a38524ace66cd3.js",
-    "service-worker.js": "cacciamani10.github.io/service-worker.js",
-    "static/css/2.cc1eb993.chunk.css.map": "cacciamani10.github.io/static/css/2.cc1eb993.chunk.css.map",
-    "static/css/main.8ca792e4.chunk.css.map": "cacciamani10.github.io/static/css/main.8ca792e4.chunk.css.map",
-    "static/js/2.7b7a9689.chunk.js.LICENSE": "cacciamani10.github.io/static/js/2.7b7a9689.chunk.js.LICENSE",
-    "static/media/IssueTrackerImg.jpg": "cacciamani10.github.io/static/media/IssueTrackerImg.3be77a7a.jpg",
-    "static/media/LyricGrapherImg.jpg": "cacciamani10.github.io/static/media/LyricGrapherImg.07da804e.jpg",
-    "static/media/portrait.png": "cacciamani10.github.io/static/media/portrait.9073eec2.png",
-    "static/media/treesandstars2.jpg": "cacciamani10.github.io/static/media/treesandstars2.edc71dda.jpg"
+    "main.css": "/cacciamani10.github.io/static/css/main.c7599b68.chunk.css",
+    "main.js": "/cacciamani10.github.io/static/js/main.5fa41046.chunk.js",
+    "main.js.map": "/cacciamani10.github.io/static/js/main.5fa41046.chunk.js.map",
+    "runtime-main.js": "/cacciamani10.github.io/static/js/runtime-main.63a546fa.js",
+    "runtime-main.js.map": "/cacciamani10.github.io/static/js/runtime-main.63a546fa.js.map",
+    "static/css/2.2e788c80.chunk.css": "/cacciamani10.github.io/static/css/2.2e788c80.chunk.css",
+    "static/js/2.b8322182.chunk.js": "/cacciamani10.github.io/static/js/2.b8322182.chunk.js",
+    "static/js/2.b8322182.chunk.js.map": "/cacciamani10.github.io/static/js/2.b8322182.chunk.js.map",
+    "index.html": "/cacciamani10.github.io/index.html",
+    "precache-manifest.3fad981656fc404ab2ccf4674c9a80c0.js": "/cacciamani10.github.io/precache-manifest.3fad981656fc404ab2ccf4674c9a80c0.js",
+    "service-worker.js": "/cacciamani10.github.io/service-worker.js",
+    "static/css/2.2e788c80.chunk.css.map": "/cacciamani10.github.io/static/css/2.2e788c80.chunk.css.map",
+    "static/css/main.c7599b68.chunk.css.map": "/cacciamani10.github.io/static/css/main.c7599b68.chunk.css.map",
+    "static/js/2.b8322182.chunk.js.LICENSE.txt": "/cacciamani10.github.io/static/js/2.b8322182.chunk.js.LICENSE.txt",
+    "static/media/IssueTrackerImg.jpg": "/cacciamani10.github.io/static/media/IssueTrackerImg.3be77a7a.jpg",
+    "static/media/LyricGrapherImg.jpg": "/cacciamani10.github.io/static/media/LyricGrapherImg.07da804e.jpg",
+    "static/media/portrait.png": "/cacciamani10.github.io/static/media/portrait.9073eec2.png",
+    "static/media/treesandstars2.jpg": "/cacciamani10.github.io/static/media/treesandstars2.edc71dda.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.302f5007.js",
-    "static/css/2.cc1eb993.chunk.css",
-    "static/js/2.7b7a9689.chunk.js",
-    "static/css/main.8ca792e4.chunk.css",
-    "static/js/main.a397d273.chunk.js"
+    "static/js/runtime-main.63a546fa.js",
+    "static/css/2.2e788c80.chunk.css",
+    "static/js/2.b8322182.chunk.js",
+    "static/css/main.c7599b68.chunk.css",
+    "static/js/main.5fa41046.chunk.js"
   ]
 }
